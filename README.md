@@ -2,7 +2,7 @@
 <h1>Hi There, I'm Christian Dipert! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 **About Me**
-* Software developer with an interest in **high-performance computation** and its applications in **finance** & **machine learning**.
+* Interested in **high-performance computation** and its applications in **finance** & **machine learning**.
 * Current **Software Engineering Intern** at [JP Morgan](https://www.jpmorgan.com/global) in the **Plano, TX** office.
 * Student in the **B.S. in Computer Science** program at **UT Austin**.
 * Would love to chat @ <a href="mailto:christiandipert@utexas.edu">christiandipert@utexas.edu</a>!
