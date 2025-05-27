@@ -1,11 +1,10 @@
 
 <h1>Hi There, I'm Christian Dipert! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm currently a **Software Engineering Intern** at [JP Morgan](https://www.jpmorgan.com/global). I am starting on June 2nd!
+I'm currently an **Incoming Software Engineering Intern** at [JP Morgan](https://www.jpmorgan.com/global). I am starting on June 2nd!
 
-## Past Internships
-<img title="JPMC" alt="JP" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaP5R7Yl-tUxtxwVHngmsrItJRy2XdJJWoxw&s" />|<img title="Datadog" alt="DDOG" width="60px" src="https://github.com/user-attachments/assets/dd80719c-0a5b-49e4-8195-2e2137866c1c"
- />|<img title="TIAA" alt="TIAA" width="60px" src="https://yt3.googleusercontent.com/97EQViHh-lVWE0uUXg_gJnUHGIzG9cfVP25ABCIs8T-AH3q4DAfNiUaH7fjoKWlHqs63k-La=s900-c-k-c0x00ffffff-no-rj"/>|<img title="lockheed" alt="LOCK" width="60px" src="https://github.com/user-attachments/assets/d0014775-5852-428c-a6b2-c806667b5739" />
+**Previous Experiences**
+<img title="JPMC" alt="JP" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaP5R7Yl-tUxtxwVHngmsrItJRy2XdJJWoxw&s" />|<img title="Datadog" alt="DDOG" width="60px" src="https://github.com/user-attachments/assets/dd80719c-0a5b-49e4-8195-2e2137866c1c"/>|<img title="TIAA" alt="TIAA" width="60px" src="https://yt3.googleusercontent.com/97EQViHh-lVWE0uUXg_gJnUHGIzG9cfVP25ABCIs8T-AH3q4DAfNiUaH7fjoKWlHqs63k-La=s900-c-k-c0x00ffffff-no-rj"/>|<img title="lockheed" alt="LOCK" width="60px" src="https://github.com/user-attachments/assets/90cd8a9a-1ce7-4ed9-9f2f-0f283d3d936d" />
 |--|--|--|--|
 
 ## Skill Set
