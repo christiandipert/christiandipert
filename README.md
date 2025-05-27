@@ -4,7 +4,9 @@
 I'm currently a **Software Engineering Intern** at [JP Morgan](https://www.jpmorgan.com/global). I am starting on June 2nd!
 
 ## Past Internships
-<img title="JPMC" alt="JP" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaP5R7Yl-tUxtxwVHngmsrItJRy2XdJJWoxw&s" />|<img title="Datadog" alt="DDOG" width="40px" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.datadoghq.com%2Fabout%2Fresources%2F&psig=AOvVaw00ubPSmgxN9EudIGrIzNTZ&ust=1748471792106000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiXvZLbxI0DFQAAAAAdAAAAABAK" />|<img title="TIAA" alt="TIA" width="40px" src="https://yt3.googleusercontent.com/97EQViHh-lVWE0uUXg_gJnUHGIzG9cfVP25ABCIs8T-AH3q4DAfNiUaH7fjoKWlHqs63k-La=s900-c-k-c0x00ffffff-no-rj" />|<img title="lockheed" alt="LOCK" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmartinwilson.me%2Fspace%2Flockheed-martin%2F&psig=AOvVaw3x1h4rZRouYCJa548m3Y28&ust=1748471983066000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiRiO_bxI0DFQAAAAAdAAAAABAX" />
+<img title="JPMC" alt="JP" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaP5R7Yl-tUxtxwVHngmsrItJRy2XdJJWoxw&s" />|<img title="Datadog" alt="DDOG" width="40px" src="https://github.com/user-attachments/assets/dd80719c-0a5b-49e4-8195-2e2137866c1c"
+" />|<img title="TIAA" alt="TIAA" width="40px" src="https://yt3.googleusercontent.com/97EQViHh-lVWE0uUXg_gJnUHGIzG9cfVP25ABCIs8T-AH3q4DAfNiUaH7fjoKWlHqs63k-La=s900-c-k-c0x00ffffff-no-rj" />|<img title="lockheed" alt="LOCK" width="40px" src="https://github.com/user-attachments/assets/d0014775-5852-428c-a6b2-c806667b5739
+" />
 |--|--|--|--|
 
 ## Skill Set
