@@ -3,7 +3,6 @@
 
 **About Me**
 * Interested in **high-performance computation** and its applications in **finance** & **machine learning**.
-* Current **Software Engineering Intern** at [JP Morgan](https://www.jpmorgan.com/global) in the **Plano, TX** office.
 * Student in the **B.S. in Computer Science** program at **UT Austin**.
 * Would love to chat @ <a href="mailto:christiandipert@utexas.edu">christiandipert@utexas.edu</a>!
 
